@@ -4,18 +4,18 @@ from datetime import datetime
 
 wb = openpyxl.load_workbook("mess.xlsx")
 sheet = wb['Sheet1']
-menu_data = {}
+data = {}
 
-columns_data = []
+col_check = []
 for col in sheet.iter_cols(values_only=True):
-    columns_data.append(list(col)) 
+    col_check.append(list(col)) 
 
-for col in columns_data:
+for col in col_check:
     if col and any(value is not None for value in col):
         pass
     
-    day_menu = {}
-    current_meal = None
+    dict_day = {}
+    meal = None
     
     date = None
     for cell in col:
@@ -40,14 +40,14 @@ for col in columns_data:
             continue
         
         if item.upper() in ["BREAKFAST", "LUNCH", "DINNER"]:
-            current_meal = item.upper()
-            day_menu[current_meal] = []
+            meal = item.upper()
+            dict_day[meal] = []
         elif current_meal:  
-            day_menu[current_meal].append(item)
+            dict_day[meal].append(item)
     
     if day_menu:
-        menu_data[date] = day_menu
+        data[date] = dict_day
 
 jsonf = "mess.json"
 with open(jsonf, "w") as jsonf:
-    json.dump(menu_data, jsonf, indent=2)
+    json.dump(data, jsonf, indent=2)
