@@ -42,10 +42,10 @@ for col in col_check:
         if item.upper() in ["BREAKFAST", "LUNCH", "DINNER"]:
             meal = item.upper()
             dict_day[meal] = []
-        elif current_meal:  
+        elif meal:  
             dict_day[meal].append(item)
     
-    if day_menu:
+    if dict_day:
         data[date] = dict_day
 
 jsonf = "mess.json"
