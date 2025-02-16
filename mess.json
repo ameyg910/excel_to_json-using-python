@@ -9,18 +9,16 @@
       "ADRAK CHUTNEY",
       "KINNOW",
       "TEA+ COFFEE",
-      "Milk",
-      "SATURDAY"
+      "Milk"
     ],
     "LUNCH": [
       "LEMON + ONION",
       "KHATTA MEETHA PUMPKIN",
-      "CHOLE  MASALA",
+      "CHOLE MASALA",
       "AJWAINI PURI / CHAPATI",
       "JEERA RICE",
       "SAMBAR",
-      "MASALA CHAAS",
-      "SATURDAY"
+      "MASALA CHAAS"
     ],
     "DINNER": [
       "PASTA SALAD (RED SAUCE)",
@@ -42,17 +40,15 @@
       "LEMON + ONION",
       "PINEAPPLE",
       "TEA+ COFFEE",
-      "Milk",
-      "SUNDAY"
+      "Milk"
     ],
     "LUNCH": [
       "ONION SALAD",
-      "PANEER MUGHALAI               (YELLOW GRAVY )",
-      "CHICKEN HYDERABAD I                ( GREEN GRAVY))",
+      "PANEER MUGHALAI (YELLOW GRAVY )",
+      "CHICKEN HYDERABAD I ( GREEN GRAVY))",
       "ZAFRANI PULAO",
       "NAAN / CHAPATI",
-      "MIX VEG RAITA",
-      "SUNDAY"
+      "MIX VEG RAITA"
     ],
     "DINNER": [
       "GREEN SALAD",
@@ -74,19 +70,17 @@
       "COCONUT CHUTNEY",
       "GUAVA",
       "TEA+ COFFEE",
-      "Milk",
-      "MONDAY"
+      "Milk"
     ],
     "LUNCH": [
       "GREEN SALAD",
-      "CABBAGE  MUTTER",
+      "CABBAGE MUTTER",
       "RAJAM RANGOLI (RED BEAN)",
       "DAL TADKA",
       "CHAPATI",
-      "PLAIN  RICE",
+      "PLAIN RICE",
       "SAMBAR",
-      "SWEET LASSI",
-      "MONDAY"
+      "SWEET LASSI"
     ],
     "DINNER": [
       "LEMON + ONION",
@@ -108,8 +102,7 @@
       "TOMATO KETCHUP",
       "BANANA",
       "TEA+ COFFEE",
-      "Milk",
-      "TUESDAY"
+      "Milk"
     ],
     "LUNCH": [
       "ONION CORN SALAD",
@@ -117,10 +110,9 @@
       "VEG KORMA",
       "BLACK URAD DAL",
       "CHAPATI",
-      "PLAIN  RICE",
+      "PLAIN RICE",
       "SAMBAR",
-      "KHUS SHARBET",
-      "TUESDAY"
+      "KHUS SHARBET"
     ],
     "DINNER": [
       "GREEN CHUTNEY",
@@ -128,7 +120,7 @@
       "RAGDA MUTTER",
       "CURD /BUTTER",
       "MIX VEG PARATHA",
-      "PLAIN  RICE"
+      "PLAIN RICE"
     ]
   },
   "2025-02-05": {
@@ -141,8 +133,7 @@
       "CUT ONION LEMON",
       "PINEAPPLE",
       "TEA+ COFFEE",
-      "Milk",
-      "WEDNESDAY"
+      "Milk"
     ],
     "LUNCH": [
       "ONION SALAD",
@@ -150,8 +141,7 @@
       "BUTTER CHICKEN",
       "CHAPATI",
       "VEG PULAO",
-      "CUCUMBER MINT RAITA",
-      "WEDNESDAY"
+      "CUCUMBER MINT RAITA"
     ],
     "DINNER": [
       "GREEN SALAD",
@@ -173,8 +163,7 @@
       "LAHSUN CHUTNEY",
       "KINNOW",
       "TEA+ COFFEE",
-      "Milk",
-      "THURSDAY"
+      "Milk"
     ],
     "LUNCH": [
       "FRYMS",
@@ -182,17 +171,16 @@
       "KADHI PAKODA",
       "VEG KHICHADI",
       "CHAPATI",
-      "PLAIN  RICE",
+      "PLAIN RICE",
       "SAMBHAR",
-      "SHIKANJI",
-      "THURSDAY"
+      "SHIKANJI"
     ],
     "DINNER": [
       "GREEN SALAD",
       "SOYA CHAAP",
       "DAL MAKHANI",
       "CHAPATI",
-      "PLAIN  RICE"
+      "PLAIN RICE"
     ]
   },
   "2025-02-07": {
@@ -205,8 +193,7 @@
       "LEMON + ONION",
       "PAPAYA",
       "TEA+ COFFEE",
-      "Milk",
-      "FRIDAY"
+      "Milk"
     ],
     "LUNCH": [
       "PEANUT SALAD",
@@ -215,11 +202,10 @@
       "DAL TADKA",
       "SATTU PARATHA",
       "PLAIN RICE",
-      "BURANI    RAITA",
-      "FRIDAY"
+      "BURANI RAITA"
     ],
     "DINNER": [
-      "KHIM CHI SALAD                       ( PURPLE CABBAGE, BELL PEPPER   )",
+      "KHIM CHI SALAD ( PURPLE CABBAGE, BELL PEPPER )",
       "VEG MANCHURIAN",
       "BLACK MASOOR DAL",
       "EGG FRIED RICE / VEG FRIED RICE",
@@ -238,8 +224,7 @@
       "LEMON + ONION",
       "GUAVA",
       "TEA+ COFFEE",
-      "Milk",
-      "SATURDAY"
+      "Milk"
     ],
     "LUNCH": [
       "TOMATO KETCHUP",
@@ -247,16 +232,15 @@
       "KALA CHANA MASALA",
       "CURD /BUTTER",
       "GOBHI PARATHA",
-      "PLAIN  RICE",
-      "SAMBAR",
-      "SATURDAY"
+      "PLAIN RICE",
+      "SAMBAR"
     ],
     "DINNER": [
       "GREEN SALAD",
       "DAHI ARBI",
-      "Arhar  DAL TADKA",
+      "Arhar DAL TADKA",
       "CHAPATI",
-      "PLAIN  RICE",
+      "PLAIN RICE",
       "RASAM",
       "HOT & SOUR SOUP"
     ]
@@ -272,16 +256,14 @@
       "BANANA",
       "TEA+ COFFEE",
       "Milk",
-      "SUNDAY",
       "SPE. LUNCH",
       "ONION SALAD",
-      "PANEER -PURU PASANDA     ( PANEER MEWARI)",
-      "CHICKEN KASWAN         (  KUKU PAKA CHICKEN)",
-      "BIRYANI-E-MALIK                     ( VEG BIRYANI)",
+      "PANEER -PURU PASANDA ( PANEER MEWARI)",
+      "CHICKEN KASWAN ( KUKU PAKA CHICKEN)",
+      "BIRYANI-E-MALIK ( VEG BIRYANI)",
       "NAAN / CHAPATI",
       "BOONDI RAITA",
-      "KALA KAND",
-      "SUNDAY"
+      "KALA KAND"
     ],
     "DINNER": [
       "GREEN SALAD",
@@ -302,26 +284,24 @@
       "LEMON + ONION",
       "PINEAPPLE",
       "TEA+ COFFEE",
-      "Milk",
-      "MONDAY"
+      "Milk"
     ],
     "LUNCH": [
       "GREEN SALAD",
       "GOBHI MUTTER DRY",
       "RAJMA RASILA",
-      "SABUT  MALKAMASOOR DAL",
+      "SABUT MALKAMASOOR DAL",
       "CHAPATI",
-      "PLAIN  RICE",
+      "PLAIN RICE",
       "SAMBAR",
-      "SWEET LASSI",
-      "MONDAY"
+      "SWEET LASSI"
     ],
     "DINNER": [
       "GREEN SALAD",
       "DAHI ALOO KASHMIRI",
       "DAL MAHARANI",
       "CHAPATI",
-      "PLAIN  RICE",
+      "PLAIN RICE",
       "RASAM",
       "TOMATO SOUP"
     ]
@@ -336,8 +316,7 @@
       "PICKEL",
       "KINNOW",
       "TEA+ COFFEE",
-      "Milk",
-      "TUESDAY"
+      "Milk"
     ],
     "LUNCH": [
       "PAPAPDI CHAAT",
@@ -345,17 +324,16 @@
       "VEG KOFTA CURRY",
       "DAL PALAK",
       "CHAPATI",
-      "PLAIN  RICE",
+      "PLAIN RICE",
       "SAMBAR",
-      "MASALA CHACCH",
-      "TUESDAY"
+      "MASALA CHACCH"
     ],
     "DINNER": [
       "TOMATO /PEANUT CHUTNEY",
       "VADA",
       "SAMBHAR",
       "MASALA DOSA",
-      "TOMATO  RICE",
+      "TOMATO RICE",
       "CHAPATI( LTD)"
     ]
   },
@@ -366,21 +344,19 @@
       "BREAD +JAM",
       "METHI THEPLA",
       "CURD",
-      "KHATTI MEETHI TOMATO  CHUTNEY",
+      "KHATTI MEETHI TOMATO CHUTNEY",
       "BANANA",
       "TEA+ COFFEE",
-      "Milk",
-      "WEDNESDAY"
+      "Milk"
     ],
     "LUNCH": [
       "ONION SALAD",
-      "PANEER HYDERABADI                         ( MINT BASE GREEN GRAVY)",
+      "PANEER HYDERABADI ( MINT BASE GREEN GRAVY)",
       "DAL MAKHANI",
       "CHAPATI",
       "GREEN PEAS PULAO",
       "MIX VEG RAITA",
-      "COOKIES & CREAM  I/C",
-      "WEDNESDAY"
+      "COOKIES & CREAM I/C"
     ],
     "DINNER": [
       "PASTA SALAD",
@@ -402,8 +378,7 @@
       "SWEET DALIYA",
       "PAPAYA",
       "TEA+ COFFEE",
-      "Milk",
-      "THURSDAY"
+      "Milk"
     ],
     "LUNCH": [
       "FRYMS",
@@ -411,10 +386,9 @@
       "KADHI PAKODA",
       "CURD RICE",
       "CHAPATI",
-      "PLAIN  RICE",
+      "PLAIN RICE",
       "SAMBHAR",
-      "SHIKANJI",
-      "THURSDAY"
+      "SHIKANJI"
     ],
     "DINNER": [
       "LEMON + ONION",
@@ -436,8 +410,7 @@
       "LEMON + ONION",
       "GUAVA",
       "TEA+ COFFEE",
-      "Milk",
-      "FRIDAY"
+      "Milk"
     ],
     "LUNCH": [
       "BHEL WITH CHUTNEY",
@@ -445,9 +418,8 @@
       "MIX KATHOL",
       "DAL LAHSUNI",
       "CHAPATI",
-      "PLAIN  RICE",
-      "PINEAPPLE  RAITA",
-      "FRIDAY"
+      "PLAIN RICE",
+      "PINEAPPLE RAITA"
     ],
     "DINNER": [
       "MIRCH KE TAPORE/ LAHSUN CHUTNEY",
@@ -466,11 +438,10 @@
       "BREAD +JAM",
       "PUNUGULU",
       "SWEET DALIYA",
-      "ADRAK  CHUTNEY",
+      "ADRAK CHUTNEY",
       "PINEAPPLE",
       "TEA+ COFFEE",
-      "Milk",
-      "SATURDAY"
+      "Milk"
     ],
     "LUNCH": [
       "GREEN CHUTNEY",
@@ -478,9 +449,8 @@
       "RAGDA MUTTER",
       "CURD /BUTTER",
       "ALOO PARATHS",
-      "PLAIN  RICE",
-      "SAMBAR",
-      "SATURDAY"
+      "PLAIN RICE",
+      "SAMBAR"
     ],
     "DINNER": [
       "GREEN SALAD",
